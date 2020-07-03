@@ -5,5 +5,5 @@ class AddGradeAndBirthdateToStudents < ActiveRecord::Migration[5.2]
   end
 
 end
-#
+
 # change_column(table_name, column_name, type).
